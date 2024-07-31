@@ -1,2 +1,2 @@
-# Estruturas-de-Dados-1
-EXERCICIOS REALIZADOS DURANTE A DISCIPLINA LAB.DADOS 1
+# Algorithms And Data Structures
+lists of exercises performed.
