@@ -63,4 +63,4 @@ Este repositório contém implementações de algoritmos e estruturas de dados f
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/154340363?v=4" width=115><br><sub>Jose Danilo Santos do Nascimento</sub>](https://github.com/JoseDaniloS) |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
-Desenvolvido como parte do aprendizado na disciplina de Algoritmos.
+Desenvolvido como parte do aprendizado na disciplina de **Estrutura de Dados I**.
